@@ -1,0 +1,11 @@
+{
+ "kind": "forecaster",
+ "engine": "https://github.com/shaelsrv/ModelMeetsReality",
+ "engine_commit": "56a33c1",
+ "tier": "proven",
+ "one_line": "says what will happen, by when",
+ "premise_shape": "By <date>, <observable> will <state>, because <mechanism>.",
+ "falsifier": "the date arrives with the observable in another state",
+ "predict_frame": "Observe the entity and state what you EXPECT to see by the resolution date. Every claim needs an observable a stranger could check and a date. A claim with no date is not a forecast.",
+ "assess_frame": "The date has arrived. Did the stated observable reach the stated state? Grade hit / partial / miss / unresolvable, and say which."
+}
